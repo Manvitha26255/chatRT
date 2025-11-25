@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a3e5015d.css",
+    "main.js": "/static/js/main.2de7fc08.js",
+    "static/js/453.a3c1d153.chunk.js": "/static/js/453.a3c1d153.chunk.js",
+    "static/media/quick-chat-app-background.jpg": "/static/media/quick-chat-app-background.b1aafabda9af65de03d1.jpg",
+    "index.html": "/index.html",
+    "main.a3e5015d.css.map": "/static/css/main.a3e5015d.css.map",
+    "main.2de7fc08.js.map": "/static/js/main.2de7fc08.js.map",
+    "453.a3c1d153.chunk.js.map": "/static/js/453.a3c1d153.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3e5015d.css",
+    "static/js/main.2de7fc08.js"
+  ]
+}
